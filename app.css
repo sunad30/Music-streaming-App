@@ -1,0 +1,46 @@
+html{
+	height:100%;
+}
+
+body{
+	/*Background*/
+	max-width: 100%;
+	max-height: 100%;
+	background: url("https://besthqwallpapers.com/Uploads/29-4-2019/89482/night-party-4k-concert-night-club-fans.jpg");
+	background-position genre: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+
+
+}
+hr{
+	background-color: white;
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+h1{
+	font-weight: bold;
+	font-size: 3em;
+	/*To set a shadow behind the text*/
+	text-shadow: 1px 1px 2px black;
+}
+h3{
+	text-shadow: 1px 1px 2px black;
+}
+
+.outline{
+	color:white;
+	border: 1px solid black;
+	background-color: purple;
+}
+
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-weight: 800;
+}
